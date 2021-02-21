@@ -1,6 +1,5 @@
-# How to search (BEXIS2 2.14)
+# How to search
 
-#
 
 Authors: Cornelia Fürstenau, Franziska Zander
 
@@ -10,24 +9,24 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 ## Table of content
 
-[1. Search and filter options 2](#search-and-filter-options)
+[1 Search and filter options](#1-search-and-filter-options)
 
-[1.1 Free-text search 2](#free-text-search)
+- [1.1 Free-text search](#11-free-text-search)
 
-[1.2 Search categories 2](#search-categories)
+- [1.2 Search categories](#12-search-categories)
 
-[1.3 Filter and sorting options in the dataset table
-3](#filter-and-sorting-options-in-the-dataset-table)
+- [1.3 Filter and sorting options in the dataset table
+3](#13-filter-and-sorting-options-in-the-dataset-table)
 
-[2. My data (only for BE-members) 3](#my-data-only-for-be-members)
+[2 My data (only for BE-members)](#2-my-data-only-for-be-members)
 
-[2.1 Datasets 3](#datasets)
+- [2.1 Datasets](#21-datasets)
 
-[2.2 Requests 4](#requests)
+- [2.2 Requests](#22-requests)
 
-[2.3 Decisions 4](#decisions)
+- [2.3 Decisions](#23-decisions)
 
-## Search and filter options
+## 1 Search and filter options
 
 The search is based on the information in the metadata of datasets and
 publications. The content is not yet searchable. The following tools
@@ -39,11 +38,11 @@ support the search (Figure 1):
 
 3.  Filters and sorting
 
-<img src=".\images_search\image1.tiff" style="width:6.3in;height:1.6242in" />
+<img src=".\images_search\image1.png" style="width:6.3in;height:1.6242in" />
 
 Figure 1: Search and filter options.
 
-### Free text search
+### 1.1 Free text search
 
 Search for keywords or phrases with the search field on the top (Figure
 2). The first box, dropdown list, can restrict the search to a chosen
@@ -51,7 +50,7 @@ topic (e.g., author). Enter in the second box the search term. An
 autocomplete function suggests words and phrases after entering at least
 three characters.
 
-<img src=".\images_search\image2.tiff" style="width:6.29969in;height:1.93631in" />
+<img src=".\images_search\image2.png" style="width:6.29969in;height:1.93631in" />
 
 Figure 2: Free text search.
 
@@ -72,7 +71,7 @@ Note:
 
 -   The listed categories and terms change according to your selections
 
-<img src="C:\Users\c1zafr\Desktop\markdown\media\image3.tiff" style="width:6.3in;height:2.2293in" />
+<img src=".\images_search\image3.png" style="width:6.3in;height:2.2293in" />
 
 Figure 3: Search Categories.
 
@@ -83,7 +82,7 @@ not the terms. Click on the displayed number of terms of the category
 and a window will open showing your selection for this category. Filters
 can be deselected just by clicking on them.
 
-<img src="C:\Users\c1zafr\Desktop\markdown\media\image4.tiff" style="width:6.2999in;height:2.29299in" />
+<img src=".\images_search\image4.png" style="width:6.2999in;height:2.29299in" />
 
 Figure 4: View of your search.
 
@@ -107,7 +106,7 @@ The following sorting or filtering functions are available:
     enter a search term and choose an appropriate option (e.g., is equal
     to, contain, is greater/less than)
 
-## My data (only for BE-members)
+##2 My data (only for BE-members)
 
 The *my data* menu is only for BE-members. Here you find a summary of
 (Figure 5):
@@ -145,7 +144,7 @@ Additional information about the completeness of the metadata and the
 primary data type (tabular data or not) are provided. To view a dataset
 click on the view-button (eye).
 
-<img src="C:\Users\c1zafr\Desktop\markdown\media\image5.tiff" style="width:6.3in;height:1.74514in" />
+<img src=".\images_search\image5.png" style="width:6.3in;height:1.74514in" />
 
 Figure 5: My data.
 
