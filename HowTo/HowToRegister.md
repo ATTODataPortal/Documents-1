@@ -18,8 +18,8 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 ## 1 Registration
 
-The registration form is accessible via the *Register* button on the
-upper right side. All fields of the form are mandatory and it is required to
+The registration form is accessible via the *Register* button in the
+upper right. All fields of the form are mandatory and it is required to
 agree to the *Terms and Conditions* and the *Privacy Policy* (Figure 1).
 You will get an email and therein asked to confirm your email address.
 In the last step, you have to provide some information (e.g., name,
@@ -32,7 +32,7 @@ Figure 1: BEXIS2 registration.
 
 ## 2 Login
 
-Click the *Login* button on the upper right side (Figure 2). Then enter your
+Click the *Login* button in the upper right (Figure 2). Then enter your
 email or user name and the password. If the login is successful, the start
 page (*News* or *Search*) is loaded. If not, you will see information
 about the status and reason for the failed login.
