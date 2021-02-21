@@ -42,13 +42,13 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 Under *Upload* are tools to create datasets. The basic functions are
 (Figure 1):
 
--   Create Dataset
+-   Create Dataset ([2.](#2-create-a-dataset-with-tabular-data) and [3.](#3-create-a-new-dataset-withwithout-a-file))
 
 -   Create Publication (see separate How to)
 
--   Upload Data
+-   Update Data (coming soon)
 
--   Push Big Files
+-   Push Big Files (coming soon)
 
 <img src=".\images_upload\image1.png" style="width:6.3in;height:1.13861in" />
 
