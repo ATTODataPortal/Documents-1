@@ -106,7 +106,7 @@ The following sorting or filtering functions are available:
     enter a search term and choose an appropriate option (e.g., is equal
     to, contain, is greater/less than)
 
-##2 My data (only for BE-members)
+## 2 My data (only for BE-members)
 
 The *my data* menu is only for BE-members. Here you find a summary of
 (Figure 5):
