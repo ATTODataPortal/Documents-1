@@ -28,13 +28,13 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 ## 1 Search and filter options
 
-The search is based on the information in the metadata of datasets and
-publications. The content is not yet searchable. The following tools
+The search is based on the information provided in the metadata of datasets and
+publications. The content of the primary data is not yet searchable. The following tools
 support the search (Figure 1):
 
-1.  Categories
+1.  Free-text search
 
-2.  Free-text search
+2.  Categories
 
 3.  Filters and sorting
 
@@ -45,10 +45,10 @@ Figure 1: Search and filter options.
 ### 1.1 Free text search
 
 Search for keywords or phrases with the search field on the top (Figure
-2). The first box, dropdown list, can restrict the search to a chosen
+2). The first box with a dropdown list can restrict the search to a chosen
 topic (e.g., author). Enter in the second box the search term. An
 autocomplete function suggests words and phrases after entering at least
-three characters.
+three characters. Autocomplete suggestions are based on exising metadata.
 
 <img src=".\images_search\image2.png" style="width:6.29969in;height:1.93631in" />
 
@@ -88,11 +88,11 @@ Figure 4: View of your search.
 
 ### 1.3 Filter and sorting options in the dataset table
 
-The table in the center of the page lists all searchable data sets and
+The table in the center of the page lists all searchable datasets and
 publications based on the account settings (e.g., guest or member). The
-table shows the ID, title, project as well as start and end date of the
+table shows by default the ID, type, title, project as well as start and end date of the
 datasets. With a right-click on the header, the selection of the columns
-is changeable. Further, the type (dataset or publication) and the
+is changeable. Additionally the contact person and the
 abstract can be shown.
 
 If you are using the search options (1) free text search or (2)
@@ -118,14 +118,14 @@ The *my data* menu is only for BE-members. Here you find a summary of
 
 -   *Decisions* - requests of other BE-members for your datasets
 
--   *Publications* - all publications archived in BEXIS2
+-   *Publications* - all publications deposited in BEXIS2
 
 All four subcategories have a search field and the listed datasets can
 be sorted.
 
 ### 2.1 Datasets
 
-This page lists all datasets to which you full access that means you can
+This page lists all datasets to which you have full access which means you can
 see and download metadata as well as primary data (and all other dataset
 components). For a better overview, the datasets are classified in the
 following subcategories based on the rights (Figure 5):
