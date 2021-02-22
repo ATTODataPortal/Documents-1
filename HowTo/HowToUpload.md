@@ -181,7 +181,7 @@ Table 2:Variable Template.
 | 3. Optional (checkbox)      | allows empty cells in the data (not preferred!)                                       |
 | 4. <img src=".\images_upload\image12.png" style="width:0.14931in;height:0.19931in" />               |  shows the whole template                                                                                     |
 | 5. Description              | add a variable description                                                            |
-| 6. Missing value            | there is one predefined missing value <p><em>-Placeholder:</em> per default <em>na</em>, but can be customized</p> <p><em>-Description:</em> add a description</p></td>                                              |
+| 6. Missing value            | there is one predefined missing value </p>- *Placeholder*: per default *na*, but can be customized <p>- *Description*:add a description</p></td>                                              |
 | 7. Trash bin                | use to delete a variable template                                                     |
 
 
@@ -189,9 +189,7 @@ Table 2:Variable Template.
 If you cannot find an appropriate variable template or a specific unit
 is missing, please contact the BExIS team!
 
-Finally, save the data
-structure<img src=".\images_upload\image13.png" style="width:2.85208in;height:1.04028in" />
-and go back to your dataset (use the browser back button).
+Finally, save the data structure and go back to your dataset (use the browser back button).
 
 <img src=".\images_upload\image14.png" style="width:6.3in;height:2.70833in" />
 
