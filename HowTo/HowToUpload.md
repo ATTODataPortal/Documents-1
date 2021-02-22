@@ -71,7 +71,7 @@ Creating a new dataset with tabular data includes the following steps:
 
 6.  [Add attachments (optional)](#add-attachments-optional)
 
-### 2 Create dataset
+### 2.1 Create dataset
 
 Create a new dataset by selecting *Create Dataset* in the *Upload* menu
 and follow the steps (Figure 2):
@@ -80,28 +80,27 @@ and follow the steps (Figure 2):
 
     1.  To create a blank dataset, choose *New Datase*t -\> next step 2a
 
-    2.  To use an existing dataset as template, select this dataset from
-        > the list -\> next step 2a or 2b
+    2.  To use an existing dataset as template, select this dataset from the list -\> next step 2a or 2b
 
 2.  Data Structure:
 
     1.  Define the data structure; choose *Tabular data (new)*; to reuse
-        > an existing data structure, select *Existing tabular data
-        > structure* and select a data structure from the list-\> next
-        > step 3
+        an existing data structure, select *Existing tabular data
+        structure* and select a data structure from the list-\> next
+        step 3
 
     2.  Use the data structure of the chosen data record (1b), choose
-        > another existing data structure, or create a new one by
-        > choosing *Tabular data (new)* -\> next step 4
+        another existing data structure, or create a new one by
+        choosing *Tabular data (new)* -\> next step 4
 
 3.  Metadata Structure:
 
-Use the metadata schema called *Biodiversity Exploratories Metadata
-Schema 3.0* -\> next step
+    1.  Use the metadata schema called *Biodiversity Exploratories Metadata
+        Schema 3.0* -\> next step
 
-1.  Next-button:
+4.  Next-button:
 
-Press the button and fill in the metadata
+    1.  Press the button and fill in the metadata
 
 <img src=".\images_upload\image2.png" style="width:6.3in;height:2.17822in" />
 
@@ -175,73 +174,17 @@ In the next step, customize each variable template. Table 2 explains the
 fields and the buttons in the variable template (see also Figure 7).
 
 Table 2:Variable Template.
+| Fields/buttons           | Description                                                                           |
+|--------------------------|---------------------------------------------------------------------------------------|
+| 1. Name                     | change the variable name; it has to be the identical name as used in the primary data |
+| 2. Unit                     | select the appropriate unit                                                           |
+| 3. Optional (checkbox)      | allows empty cells in the data (not preferred!)                                       |
+| 4. <img src=".\images_upload\image12.png" style="width:0.14931in;height:0.19931in" />               |  shows the whole template                                                                                     |
+| 5. Description              | add a variable description                                                            |
+| 6. Missing value            | there is one predefined missing value <p><em>-Placeholder:</em> per default <em>na</em>, but can be customized</p> <p><em>-Description:</em> add a description</p></td>                                              |
+| 7. Trash bin                | use to delete a variable template                                                     |
 
-<table>
-<thead>
-<tr class="header">
-<th>Fields/buttons</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><ol type="1">
-<li><blockquote>
-<p>Name</p>
-</blockquote></li>
-</ol></td>
-<td>change the variable name; it has to be the identical name as used in the primary data</td>
-</tr>
-<tr class="even">
-<td><ol start="2" type="1">
-<li><blockquote>
-<p>Unit</p>
-</blockquote></li>
-</ol></td>
-<td>select the appropriate unit</td>
-</tr>
-<tr class="odd">
-<td><ol start="3" type="1">
-<li><blockquote>
-<p><em>Optional</em> (checkbox)</p>
-</blockquote></li>
-</ol></td>
-<td>allows empty cells in the data (not preferred!)</td>
-</tr>
-<tr class="even">
-<td><ol start="4" type="1">
-<li><p><img src=".\images_upload\image12.png" style="width:0.14931in;height:0.19931in" /></p></li>
-</ol></td>
-<td>shows the whole template</td>
-</tr>
-<tr class="odd">
-<td><ol start="5" type="1">
-<li><blockquote>
-<p>Description</p>
-</blockquote></li>
-</ol></td>
-<td>add a variable description</td>
-</tr>
-<tr class="even">
-<td><ol start="6" type="1">
-<li><blockquote>
-<p>Missing value</p>
-</blockquote></li>
-</ol></td>
-<td><p>there is one predefined missing value</p>
-<p><em>-Placeholder:</em> per default <em>na</em>, but can be customized</p>
-<p><em>-Description:</em> add a description</p></td>
-</tr>
-<tr class="odd">
-<td><ol start="7" type="1">
-<li><blockquote>
-<p>Trash bin</p>
-</blockquote></li>
-</ol></td>
-<td>use to delete a variable template</td>
-</tr>
-</tbody>
-</table>
+
 
 If you cannot find an appropriate variable template or a specific unit
 is missing, please contact the BExIS team!
@@ -333,7 +276,7 @@ Now follow the upload wizard (Figure 9):
 6.  Visual check:
 
     -   Please check your uploaded data under the *Primary Data* tab. In
-        > case something looks strange please contact the BExIS Team.
+        case something looks strange please contact the BExIS Team.
 
 <img src=".\images_upload\image16.png" style="width:6.3in;height:2.36458in" />
 
@@ -421,12 +364,12 @@ To set up a new dataset, select *Create Dataset* in the *Upload* menu and follow
 
 3.  Metadata Structure:
 
-> Use the metadata schema called *Biodiversity Exploratories Metadata
-> Schema 3.0* -\> next step 4
+    1.  Use the metadata schema called *Biodiversity Exploratories Metadata
+        Schema 3.0* -\> next step 4
 
 1.  Next-button:
 
-> Press the button and fill in the metadata
+    1.  Press the button and fill in the metadata
 
 ### 3.2 Metadata
 
