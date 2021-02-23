@@ -78,25 +78,25 @@ and follow the steps (Figure 2):
 
 1.  Dataset:
 
-    1.  To create a blank dataset, choose *New Datase*t -\> next step 2a
+    1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
 
-    2.  To use an existing dataset as template, select this dataset from the list -\> next step 2a or 2b
+    2.  To use an existing dataset as template, select this dataset from the list -\> next step 2i or 2ii
 
 2.  Data Structure:
 
     1.  Define the data structure; choose *Tabular data (new)*; to reuse
         an existing data structure, select *Existing tabular data
         structure* and select a data structure from the list-\> next
-        step 3
+        step 3i
 
     2.  Use the data structure of the chosen data record (1b), choose
         another existing data structure, or create a new one by
-        choosing *Tabular data (new)* -\> next step 4
+        choosing *Tabular data (new)* -\> next step 4i
 
 3.  Metadata Structure:
 
     1.  Use the metadata schema called *Biodiversity Exploratories Metadata
-        Schema 3.0* -\> next step
+        Schema 3.0* -\> next step 4i
 
 4.  Next-button:
 
@@ -173,7 +173,7 @@ variables in the data.
 In the next step, customize each variable template. Table 2 explains the
 fields and the buttons in the variable template (see also Figure 7).
 
-Table 2:Variable Template.
+Table 2: Variable Template.
 | Fields/buttons           | Description                                                                           |
 |--------------------------|---------------------------------------------------------------------------------------|
 | 1. Name                     | change the variable name; it has to be the identical name as used in the primary data |
@@ -347,23 +347,23 @@ To set up a new dataset, select *Create Dataset* in the *Upload* menu and follow
 
 1.  Dataset:
 
-    1.  To create a blank dataset, choose *New Datase*t -\> next step 2a
+    1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
 
     2.  To use an existing dataset as template, select this dataset from
-        the list -\> next step 2b
+        the list -\> next step 2ii
 
 2.  Data Structure:
 
     1.  Define the data structure; select *Existing file data structure*
-        and choose a data type from the list-\> next step 3
+        and choose a data type from the list-\> next step 3i
 
     2.  Use the data structure of the chosen dataset (1b), choose
-        another existing data type -\> next step 4
+        another existing data type -\> next step 4i
 
 3.  Metadata Structure:
 
     1.  Use the metadata schema called *Biodiversity Exploratories Metadata
-        Schema 3.0* -\> next step 4
+        Schema 3.0* -\> next step 4i
 
 1.  Next-button:
 
