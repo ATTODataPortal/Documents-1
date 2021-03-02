@@ -198,11 +198,10 @@ Please fill out the forms with all necessary information. You find a describtion
 | <img src="images_fieldwork\image9.png" style="width:0.20002in;height:0.20002in" /> | Show further resources          | Shows all other equipment of the chosen Exploratory.                                                                                |
 | <img src="images_fieldwork\image6.png" style="width:0.18668in;height:0.20002in" /> | Copy whole resource             | Useful to book individual sleeping places for each person on the field trip.                                                        |
 
-## <img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
-**Figure 5:** Second step of booking resources / part 2 - name and describe the whole booking.
-
 On the second (lower) part of this page please add some general information about the field trip: name and description. The description should summarize the booking meaningfully. It will help the LMTs to get a clear picture of your trip and helps to support your fieldwork.
 
+## <img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
+**Figure 5:** Second step of booking resources / part 2 - name and describe the whole booking.
 
 Now press the booking button.
 
