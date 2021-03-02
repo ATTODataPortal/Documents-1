@@ -4,19 +4,17 @@ Contact: <bexis@listserv.uni-jena.de>
 
 # Inhalt
 
-[1. Overview](#1-overview)
+[1 Overview](#1-overview)
 
 [2 News](#2-news)
 
 [3 Calendar](#3-calendar)
 
-- [3.1. View option in the fieldwork calendar
-2](#31-view-option-in-the-fieldwork-calendar)
+- [3.1 View option in the fieldwork calendar](#31-view-option-in-the-fieldwork-calendar)
 
 - [3.2 Book resources](#32-book-resources)
 
-- [3.3 Delete or edit a booked resource
-5](#33-delete-or-edit-a-booked-resource)
+- [3.3 Delete or edit a booked resource](#33-delete-or-edit-a-booked-resource)
 
 - [3.4 Notification of booking](#34-notification-of-booking)
 
@@ -42,7 +40,7 @@ fieldwork in the Exploratories (Figure 1):
 
 ## <img src="images_fieldwork\image1.png" style="width:6.3in;height:1.5in" />
 
-Figure 1: Fieldwork menu.
+<span style="font-size:0.8em;"> Figure 1: Fieldwork menu. 
 
 ## 2 News
 
@@ -63,7 +61,7 @@ This can be one field trip or even all field trips of the season
 together. Use filer (Table 1) and view options (Table 2) to get a good
 overview of reservations.
 
-Table 1. Filter options:
+<span style="font-size:0.8em;">Table 1. Filter options:
 
 <table>
 <thead>
@@ -90,27 +88,24 @@ Table 1. Filter options:
 <td></td>
 </tr>
 <tr class="odd">
-<td><ol type="a">
-<li><p>Only my bookings</p></li>
+<td>a) Only my bookings
 </ol></td>
 <td>shows only your bookings or booked resources</td>
 </tr>
 <tr class="even">
-<td><ol start="2" type="a">
-<li><p>Exploratory</p></li>
+<td>b) Exploratory
 </ol></td>
 <td>shows only bookings of one or two exploratories</td>
 </tr>
 <tr class="odd">
-<td><ol start="3" type="a">
-<li><p>Type</p></li>
+<td>c) Type</p>
 </ol></td>
 <td>shows only booking of a specific resource category</td>
 </tr>
 </tbody>
 </table>
 
-Table 2: View options
+<span style="font-size:0.8em;">Table 2: View options
 
 <table>
 <thead>
@@ -125,17 +120,16 @@ Table 2: View options
 <td>calendar view of bookings or resources</td>
 </tr>
 <tr class="even">
-<td><ol type="a">
-<li><p>Duration (month, week, day) - Calendar</p></li>
+<td> a) Duration (month, week, day) - Calendar
 </ol></td>
 <td>choose a period: month, week, or day</td>
 </tr>
 <tr class="odd">
-<td>List</td>
+<td>List (3) </td>
 <td>list of bookings or resources</td>
 </tr>
 <tr class="even">
-<td>Periode (From to) – List view</td>
+<td>a) Periode (From to) – List view</td>
 <td>choose a period</td>
 </tr>
 </tbody>
@@ -143,7 +137,7 @@ Table 2: View options
 
 <img src="images_fieldwork\image2.png" style="width:6.3in;height:3.07292in" />
 
-Figure 2: Options to adapt the fieldwork calendar view.
+<span style="font-size:0.8em;">Figure 2: Options to adapt the fieldwork calendar view.
 
 ### 3.2 Book resources
 
@@ -167,7 +161,7 @@ person.
 
 <img src="images_fieldwork\image4.png" style="width:6.3in;height:2.41667in" />
 
-Figure 3: The first step of booking resources - selecting available
+<span style="font-size:0.8em;"> Figure 3: The first step of booking resources - selecting available
 resources.
 
 3.2.2 Specify resource details
@@ -178,7 +172,7 @@ information (Table 3). To select the resource, click
 <u>Hint:</u> The buttons on the right side support an easy filling of
 several resources (Table 4).
 
-Table 3: Filling help for the form fields.
+<span style="font-size:0.8em;"> Table 3: Filling help for the form fields.
 
 <table>
 <thead>
@@ -208,10 +202,10 @@ Table 3: Filling help for the form fields.
 </tbody>
 </table>
 
-Table 4: Meaning of the button on the right side
+<span style="font-size:0.8em;"> Table 4: Meaning of the button on the right side
 
 | Symbol                                                                                                   | Short Explanation               | Long Explanation                                                                                                                    |
-|----------------------------------------------------------------------------------------------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------|---------------------------------|------------------------------------|
 | <img src="images_fieldwork\image7.png" style="width:0.19335in;height:0.20002in" /> | Copy filled values to all other | Copies all values to all further selected resources (e.g., start and end date).                                                     |
 | <img src="images_fieldwork\image8.png" style="width:0.19335in;height:0.20002in" /> | Check availability              | Check the availability of a resource. The resource is available if the symbol turns green or not available if the symbol turns red. |
 | <img src="images_fieldwork\image9.png" style="width:0.20002in;height:0.20002in" /> | Show further resources          | Shows all other equipment of the chosen Exploratory.                                                                                |
@@ -219,7 +213,7 @@ Table 4: Meaning of the button on the right side
 
 <img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
 
-Figure: Second step of booking resources/ part 1 – defining time,
+<span style="font-size:0.8em;"> Figure 4: Second step of booking resources/ part 1 – defining time,
 persons, and number of resources.
 
 On the second part of this page, add the general information about the
@@ -230,7 +224,7 @@ Now press the booking button.
 
 <img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
 
-Figure 5: Second step of booking resources.
+<span style="font-size:0.8em;"> Figure 5: Second step of booking resources.
 
 ### 3.2.3 Warning hints
 
