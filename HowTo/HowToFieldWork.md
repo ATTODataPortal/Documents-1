@@ -132,7 +132,7 @@ overview of reservations.
 </tbody>
 </table>
 
-<img src="images_fieldwork\image2.png" style="width:6.3in;height:3.07292in" />
+## <img src="images_fieldwork\image2.png" style="width:6.3in;height:3.07292in" />
 **Figure 2:** Options to adapt the fieldwork calendar view.
 
 ### 3.2 Book resources
