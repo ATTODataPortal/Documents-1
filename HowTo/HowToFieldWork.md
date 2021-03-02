@@ -22,7 +22,7 @@ Contact: <bexis@listserv.uni-jena.de>
 
 [5 Documents](#5-documents)
 
-## Overview
+## 1 Overview
 
 The *Fieldwork* menu provides tools and information to plan and organize
 fieldwork in the Exploratories (Figure 1):
@@ -32,7 +32,7 @@ fieldwork in the Exploratories (Figure 1):
 -   *Calendar*: book sleeping places and equipment, and inform the LMTs
     about the planned fieldwork
 
--   *Exploratory Information*: information about the field stations,
+-   *Exploratory Information*: information about the field sites and stations,
     weekend working, weather forecast, maps
 
 -   *Documents*: all necessary documents (permits and forms) for the
@@ -52,7 +52,7 @@ regarding plot access. Please check this page before your field trip.
 The calendar shows reserved resources or bookings to give an orientation
 for BE-members and LMTS about planned and ongoing fieldwork.
 
-### 3.1. View option in the fieldwork calendar
+### 3.1 View option in the fieldwork calendar
 
 The fieldwork calendar shows per default all reserved resources of the
 actual week (Figure 2). Areas, equipment, and sleeping places are called
@@ -61,7 +61,7 @@ This can be one field trip or even all field trips of the season
 together. Use filer (Table 1) and view options (Table 2) to get a good
 overview of reservations.
 
-<span style="font-size:0.8em;">Table 1. Filter options:
+<span style="font-size:0.8em;">Table 1. Filter options.
 
 <table>
 <thead>
@@ -105,7 +105,7 @@ overview of reservations.
 </tbody>
 </table>
 
-<span style="font-size:0.8em;">Table 2: View options
+<span style="font-size:0.8em;">Table 2: View options.
 
 <table>
 <thead>
@@ -144,7 +144,7 @@ overview of reservations.
 To announce planned fieldwork and reserve sleeping places or equipment
 create a booking via *Book Resource*.
 
-3.2.1 Select resources
+#### 3.2.1 Select resources
 
 In the next step select the plots you want to visit as well as the
 needed equipment and sleeping places. Add them to the *Selected
@@ -164,7 +164,7 @@ person.
 <span style="font-size:0.8em;"> Figure 3: The first step of booking resources - selecting available
 resources.
 
-3.2.2 Specify resource details
+#### 3.2.2 Specify resource details
 
 On the next page, fill out the form and provide all necessary
 information (Table 3). To select the resource, click
@@ -226,7 +226,7 @@ Now press the booking button.
 
 <span style="font-size:0.8em;"> Figure 5: Second step of booking resources.
 
-### 3.2.3 Warning hints
+#### 3.2.3 Warning hints
 
 Missing information about a booking will be marked in orange after
 clicking on the booking button. Select those resources or fields and add
