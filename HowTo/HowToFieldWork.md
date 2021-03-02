@@ -39,7 +39,7 @@ fieldwork in the Exploratories (Figure 1):
     fieldwork
 
 ## <img src="images_fieldwork\image1.png" style="width:6.3in;height:1.5in" />
-<span style="font-size:0.8em;"> **Figure 1:** Fieldwork menu. 
+**Figure 1:** Fieldwork menu. 
 
 ## 2 News
 
@@ -133,7 +133,7 @@ overview of reservations.
 </table>
 
 <img src="images_fieldwork\image2.png" style="width:6.3in;height:3.07292in" />
-<span style="font-size:0.8em;">**Figure 2:** Options to adapt the fieldwork calendar view.
+**Figure 2:** Options to adapt the fieldwork calendar view.
 
 ### 3.2 Book resources
 
@@ -150,18 +150,18 @@ In the next step select the areas you want to visit as well as the needed equipm
 <ins>Note:</ins> Book sleeping places separate (single resource) for every person.
 
 <img src="images_fieldwork\image4.png" style="width:6.3in;height:2.41667in" />
-<span style="font-size:0.8em;"> **Figure 3:**** The first step of booking resources - selecting available resources.
+**Figure 3:** The first step of booking resources - selecting available resources.
 
 #### 3.2.2 Specify resource details
 
 On the follow-up page you will get a detailed view of all your selected resources. The first resource should appear de-collapsed and show all inherent forms. To select another resource or de-collapse it, click <img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. 
 
 <img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
-<span style="font-size:0.8em;"> **Figure 4:** Second step of booking resources / part 1 – defining time, persons, and number of resources.
+**Figure 4:** Second step of booking resources / part 1 – defining time, persons, and number of resources.
 
 Please fill out the forms with all necessary information. You find a describtion in Table 3. <ins>Hint:</ins> The buttons on the right side support an easy filling of several resources (Table 4).
 
-<span style="font-size:0.8em;">**Table 3:** Filling help for the form fields.
+**Table 3:** Filling help for the form fields.
 <table>
 <thead>
 <tr class="header">
