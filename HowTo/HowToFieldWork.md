@@ -39,8 +39,7 @@ fieldwork in the Exploratories (Figure 1):
     fieldwork
 
 ## <img src="images_fieldwork\image1.png" style="width:6.3in;height:1.5in" />
-
-<span style="font-size:0.8em;"> Figure 1: Fieldwork menu. 
+<span style="font-size:0.8em;"> **Figure 1:** Fieldwork menu. 
 
 ## 2 News
 
@@ -61,8 +60,7 @@ This can be one field trip or even all field trips of the season
 together. Use filer (Table 1) and view options (Table 2) to get a good
 overview of reservations.
 
-<span style="font-size:0.8em;">Table 1. Filter options.
-
+<span style="font-size:0.8em;">**Table 1:** Filter options.
 <table>
 <thead>
 <tr class="header">
@@ -105,8 +103,7 @@ overview of reservations.
 </tbody>
 </table>
 
-<span style="font-size:0.8em;">Table 2: View options.
-
+<span style="font-size:0.8em;">**Table 2:** View options.
 <table>
 <thead>
 <tr class="header">
@@ -136,8 +133,7 @@ overview of reservations.
 </table>
 
 <img src="images_fieldwork\image2.png" style="width:6.3in;height:3.07292in" />
-
-<span style="font-size:0.8em;">Figure 2: Options to adapt the fieldwork calendar view.
+<span style="font-size:0.8em;">**Figure 2:** Options to adapt the fieldwork calendar view.
 
 ### 3.2 Book resources
 
@@ -146,36 +142,26 @@ create a booking via *Book Resource*.
 
 #### 3.2.1 Select resources
 
-In the next step select the plots you want to visit as well as the
-needed equipment and sleeping places. Add them to the *Selected
-Resources* by clicking
-<img src="images_fieldwork\image3.png" style="width:0.12668in;height:0.12001in" />.
-After adding all resources, press *Continue booking*.
+In the next step select the areas you want to visit as well as the needed equipment and sleeping places. Add them to the *Selected Resources* by clicking
+<img src="images_fieldwork\image3.png" style="width:0.12668in;height:0.12001in" />. After adding all resources, press *Continue booking*.
 
-<ins>Hint:</ins> Use the filter options in the green box on the left to
-preselect the desired region and the resource type (area, objects, and
-sleeping places).
+<ins>Hint:</ins> Use the filter options in the green box on the left to preselect the desired region and the resource type (area, objects, and sleeping places).
 
-<u>Note:</u> Book sleeping places separate (single resource) for every
-person.
+<ins>Note:</ins> Book sleeping places separate (single resource) for every person.
 
 <img src="images_fieldwork\image4.png" style="width:6.3in;height:2.41667in" />
-
-<span style="font-size:0.8em;"> Figure 3: The first step of booking resources - selecting available
-resources.
+<span style="font-size:0.8em;"> **Figure 3:**** The first step of booking resources - selecting available resources.
 
 #### 3.2.2 Specify resource details
 
 On the follow-up page you will get a detailed view of all your selected resources. The first resource should appear de-collapsed and show all inherent forms. To select another resource or de-collapse it, click <img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. 
 
 <img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
-
-<span style="font-size:0.8em;"> Figure 4: Second step of booking resources / part 1 – defining time, persons, and number of resources.
+<span style="font-size:0.8em;"> **Figure 4:** Second step of booking resources / part 1 – defining time, persons, and number of resources.
 
 Please fill out the forms with all necessary information. You find a describtion in Table 3. <ins>Hint:</ins> The buttons on the right side support an easy filling of several resources (Table 4).
 
-<span style="font-size:0.8em;"> Table 3: Filling help for the form fields.
-
+<span style="font-size:0.8em;">**Table 3:** Filling help for the form fields.
 <table>
 <thead>
 <tr class="header">
@@ -204,8 +190,7 @@ Please fill out the forms with all necessary information. You find a describtion
 </tbody>
 </table>
 
-<span style="font-size:0.8em;"> Table 4: Meaning of the button on the right side
-
+<span style="font-size:0.8em;"> **Table 4:** Meaning of the button on the right side of a resource
 | Symbol                                                                                                   | Short Explanation               | Long Explanation                                                                                                                    |
 |-------------------------------------|---------------------------------|------------------------------------|
 | <img src="images_fieldwork\image7.png" style="width:0.19335in;height:0.20002in" /> | Copy filled values to all other | Copies all values to all further selected resources (e.g., start and end date).                                                     |
@@ -214,14 +199,12 @@ Please fill out the forms with all necessary information. You find a describtion
 | <img src="images_fieldwork\image6.png" style="width:0.18668in;height:0.20002in" /> | Copy whole resource             | Useful to book individual sleeping places for each person on the field trip.                                                        |
 
 <img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
-
-<span style="font-size:0.8em;"> Figure 5: Second step of booking resources / part 2 - name and describe the whole booking.
+<span style="font-size:0.8em;"> **Figure 5:** Second step of booking resources / part 2 - name and describe the whole booking.
 
 On the second (lower) part of this page please add some general information about the field trip: name and description. The description should summarize the booking meaningfully. It will help the LMTs to get a clear picture of your trip and helps to support your fieldwork.
 
 
 Now press the booking button.
-
 
 #### 3.2.3 Warning hints
 
