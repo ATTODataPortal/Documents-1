@@ -152,7 +152,7 @@ Resources* by clicking
 <img src="images_fieldwork\image3.png" style="width:0.12668in;height:0.12001in" />.
 After adding all resources, press *Continue booking*.
 
-<u>Hint:</u> Use the filter options in the green box on the left to
+<ins>Hint:</ins> Use the filter options in the green box on the left to
 preselect the desired region and the resource type (area, objects, and
 sleeping places).
 
@@ -166,12 +166,13 @@ resources.
 
 #### 3.2.2 Specify resource details
 
+On the follow-up page you will get a detailed view of all your selected resources. The first resource should appear de-collapsed and show all inherent forms. To select another resource or de-collapse it, click <img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. 
+
 <img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
 
 <span style="font-size:0.8em;"> Figure 4: Second step of booking resources / part 1 – defining time, persons, and number of resources.
 
-On the next page, fill out the form and provide all necessary information (Table 3). To select the resource, click 
-<img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. It will de-collapse the whole resource template and show all info.
+Please fill out the forms with all necessary information. You find a describtion in Table 3. <ins>Hint:</ins> The buttons on the right side support an easy filling of several resources (Table 4).
 
 <span style="font-size:0.8em;"> Table 3: Filling help for the form fields.
 
@@ -202,9 +203,6 @@ On the next page, fill out the form and provide all necessary information (Table
 </tr>
 </tbody>
 </table>
-
-
-<u>Hint:</u> The buttons on the right side support an easy filling of several resources (Table 4).
 
 <span style="font-size:0.8em;"> Table 4: Meaning of the button on the right side
 
