@@ -33,7 +33,7 @@ fieldwork in the Exploratories (Figure 1):
     about the planned fieldwork
 
 -   *Exploratory Information*: information about the field sites and stations,
-    weekend working, weather forecast, maps
+    weekend working, weather forecast, maps, ...
 
 -   *Documents*: all necessary documents (permits and forms) for the
     fieldwork
@@ -166,11 +166,12 @@ resources.
 
 #### 3.2.2 Specify resource details
 
-On the next page, fill out the form and provide all necessary
-information (Table 3). To select the resource, click
-<img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />.
-<u>Hint:</u> The buttons on the right side support an easy filling of
-several resources (Table 4).
+<img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
+
+<span style="font-size:0.8em;"> Figure 4: Second step of booking resources / part 1 – defining time, persons, and number of resources.
+
+On the next page, fill out the form and provide all necessary information (Table 3). To select the resource, click 
+<img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. It will de-collapse the whole resource template and show all info.
 
 <span style="font-size:0.8em;"> Table 3: Filling help for the form fields.
 
@@ -202,6 +203,9 @@ several resources (Table 4).
 </tbody>
 </table>
 
+
+<u>Hint:</u> The buttons on the right side support an easy filling of several resources (Table 4).
+
 <span style="font-size:0.8em;"> Table 4: Meaning of the button on the right side
 
 | Symbol                                                                                                   | Short Explanation               | Long Explanation                                                                                                                    |
@@ -211,20 +215,15 @@ several resources (Table 4).
 | <img src="images_fieldwork\image9.png" style="width:0.20002in;height:0.20002in" /> | Show further resources          | Shows all other equipment of the chosen Exploratory.                                                                                |
 | <img src="images_fieldwork\image6.png" style="width:0.18668in;height:0.20002in" /> | Copy whole resource             | Useful to book individual sleeping places for each person on the field trip.                                                        |
 
-<img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
+<img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
 
-<span style="font-size:0.8em;"> Figure 4: Second step of booking resources/ part 1 – defining time,
-persons, and number of resources.
+<span style="font-size:0.8em;"> Figure 5: Second step of booking resources / part 2 - name and describe the whole booking.
 
-On the second part of this page, add the general information about the
-field trip: name and description. The description should contain all
-necessary information needed by the LMTs to support the fieldwork.
+On the second (lower) part of this page please add some general information about the field trip: name and description. The description should summarize the booking meaningfully. It will help the LMTs to get a clear picture of your trip and helps to support your fieldwork.
+
 
 Now press the booking button.
 
-<img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
-
-<span style="font-size:0.8em;"> Figure 5: Second step of booking resources.
 
 #### 3.2.3 Warning hints
 
@@ -244,13 +243,14 @@ trip, cancel this action.
 
 After finishing or changing a booking, an overview will be sent to the
 contact person, all other involved persons, the LMTs, and the BExIS
-Team.
+team.
 
 ## 4 Exploratory information
 
-Here you find all important information about the field stations,
-weekend working, weather forecast as well as maps leading to the plots,
-and links to the map service of the federal states.
+Here you find all important information about the field sites and field stations,
+a fieldwork guideline and a checklist, weekend working infos,
+weather forecast as well as maps with driving directions to the plots,
+and many more.
 
 ## 5 Documents
 
