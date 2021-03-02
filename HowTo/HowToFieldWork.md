@@ -149,14 +149,14 @@ In the next step select the areas you want to visit as well as the needed equipm
 
 <ins>Note:</ins> Book sleeping places separate (single resource) for every person.
 
-<img src="images_fieldwork\image4.png" style="width:6.3in;height:2.41667in" />
+## <img src="images_fieldwork\image4.png" style="width:6.3in;height:2.41667in" />
 **Figure 3:** The first step of booking resources - selecting available resources.
 
 #### 3.2.2 Specify resource details
 
 On the follow-up page you will get a detailed view of all your selected resources. The first resource should appear de-collapsed and show all inherent forms. To select another resource or de-collapse it, click <img src="images_fieldwork\image5.png" style="width:0.11334in;height:0.12001in" />. 
 
-<img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
+## <img src="images_fieldwork\image10.png" style="width:6.3in;height:3.03125in" />
 **Figure 4:** Second step of booking resources / part 1 – defining time, persons, and number of resources.
 
 Please fill out the forms with all necessary information. You find a describtion in Table 3. <ins>Hint:</ins> The buttons on the right side support an easy filling of several resources (Table 4).
@@ -190,7 +190,7 @@ Please fill out the forms with all necessary information. You find a describtion
 </tbody>
 </table>
 
-<span style="font-size:0.8em;"> **Table 4:** Meaning of the button on the right side of a resource
+**Table 4:** Meaning of the button on the right side of a resource
 | Symbol                                                                                                   | Short Explanation               | Long Explanation                                                                                                                    |
 |-------------------------------------|---------------------------------|------------------------------------|
 | <img src="images_fieldwork\image7.png" style="width:0.19335in;height:0.20002in" /> | Copy filled values to all other | Copies all values to all further selected resources (e.g., start and end date).                                                     |
@@ -198,8 +198,8 @@ Please fill out the forms with all necessary information. You find a describtion
 | <img src="images_fieldwork\image9.png" style="width:0.20002in;height:0.20002in" /> | Show further resources          | Shows all other equipment of the chosen Exploratory.                                                                                |
 | <img src="images_fieldwork\image6.png" style="width:0.18668in;height:0.20002in" /> | Copy whole resource             | Useful to book individual sleeping places for each person on the field trip.                                                        |
 
-<img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
-<span style="font-size:0.8em;"> **Figure 5:** Second step of booking resources / part 2 - name and describe the whole booking.
+## <img src="images_fieldwork\image11.png" style="width:6.3in;height:2.69792in" />
+**Figure 5:** Second step of booking resources / part 2 - name and describe the whole booking.
 
 On the second (lower) part of this page please add some general information about the field trip: name and description. The description should summarize the booking meaningfully. It will help the LMTs to get a clear picture of your trip and helps to support your fieldwork.
 
