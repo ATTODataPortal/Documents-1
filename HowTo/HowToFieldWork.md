@@ -2,7 +2,7 @@ Authors: Cornelia Fürstenau, Eleonora Petzold, Franziska Zander
 
 Contact: <bexis@listserv.uni-jena.de>
 
-# Inhalt
+# How-to Fieldwork
 
 [1 Overview](#1-overview)
 
