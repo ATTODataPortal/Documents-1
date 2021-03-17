@@ -408,3 +408,97 @@ Now follow these steps of the upload wizard:
 
 See [Chapter 2.5](#add-data-links-optional) and [Chapter
 2.6](#add-attachments-optional) for instructions.
+
+# 4. Update a dataset
+
+The metadata creator, data creator, and project leader are allowed to edit the following parts of their dataset:
+
+- metadata
+
+- primary data
+
+- data structure
+
+- links
+
+- attachments
+
+The data structure itself can not be changed once the dataset contains primary data. But you are still able to edit the description of the variables.
+
+To start this process open the dataset. To find the dataset use the menu *Search* or *My Data*.
+
+## 4.1 Metadata
+
+Open your dataset. To edit the metadata click on the *Edit button* on top of your metadata.
+
+## 4.2 Primary data
+
+To update your primary data go to the *Primary Data tab* of your dataset.
+
+There are two options to update your data:
+
+- Update: adds only new data; a unique key (one or more variables) has to be provided
+
+- Append: this adds all data of the uploaded file to the datasets. Note: make sure that you don't upload already existing data!
+
+To start the upload process, use the *Update or Append button* in your dataset's *Primary Data tab*. This link will direct you to the data upload wizard.
+
+Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in Section 2.4.
+
+1. Select file:
+
+    - Choose the file from your local computer and click the *Next button*.
+
+2. Get file information (excel files):
+
+    - Select the header of the data and click the *Header button.*
+
+    - Select the data section of your table and click the *Data button.*
+
+    - If mistakes occur, use the *Reset* button to remove all markings and start over.
+
+    - Click the *Next button* to proceed to the next step.
+
+3. Specify dataset:
+
+    -  Skip this step if you used the upload button in the dataset's primary data tab.
+
+4. Choose update method:
+
+    - 4a - Update:
+
+        - Define a unique key. Therefore choose one or more variables.
+
+        - Click the *Check button.* You get a message whether the key variables are unique or not.
+
+        - Click the *Next button* to proceed to the next step.
+
+    - 4b - Append:
+
+        - By choosing to append data no further information is required.
+
+5. Validation
+
+    - Click the *Validate Button*. This step checks if data structure and primary data match.
+
+    - Validation failed: view the error message and adapt the data structure or your uploaded data.
+
+    - Validation successful: click *Next button*
+
+6. Summary:
+
+    - The wizard provides a summary of the uploaded data
+
+    - Click the *Finish button* to complete the import
+
+    - Depending on the size of your uploaded data you will be directly forwarded to your dataset. Otherwise, you will be informed via mail once the import is completed. During that time your dataset is not accessible.
+
+7. Visual check:
+
+    - Please check your uploaded data under the *Primary Data* tab. In case something looks strange please contact the BExIS Team.
+
+## 4.3 Links and Attachments
+
+Open your dataset. In the *Links-tab* you can create new links via the *Create-link-button* and or delete already existing links.
+
+Under the *Attachments-tab* you can upload new attachments and delete old ones.
