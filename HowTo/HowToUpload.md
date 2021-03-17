@@ -12,42 +12,36 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 [1. Overview](#1-overview)
 
-[2. Create a dataset with tabular data
-2](#2-create-a-dataset-with-tabular-data)
+[2. Create a dataset with tabular data2](#2-create-a-dataset-with-tabular-data)
 
 - [2.1 Create dataset](#21-create-dataset)
-
 - [2.2 Metadata](#22-metadata)
-
 - [2.3 Data structure](#23-data-structure)
-
 - [2.4 Upload data](#24-upload-data)
-
 - [2.5 Add data links (optional)](#25-add-data-links-optional)
-
 - [2.6 Add attachments (optional)](#26-add-attachments-optional)
 
 [3. Create a new dataset (with/without a file)](#3-create-a-new-dataset-withwithout-a-file)
 
 - [3.1 Create dataset](#31-create-dataset)
-
 - [3.2 Metadata](#32-metadata)
+- [3.3 Upload data](#33-upload-data)
+- [3.4 Add data links and attachments (optional)](#34-add-data-links-and-attachments-optional)
 
-- [3.3 Upload data](33-#upload-data)
+[4. Update a dataset](#4-update-a-dataset)
 
-- [3.4 Add data links and attachments (optional)](#34-dd-data-links-and-attachments-optional)
+- [4.1 Metadata](#41-metadata)
+- [4.2 Primary data](#42-primary-data)
+- [4.3 Links and Attachments](#43-links-and-attachments)
 
 ## 1 Overview
 
 Under *Upload* are tools to create datasets. The basic functions are
 (Figure 1):
 
--   Create Dataset ([2.](#2-create-a-dataset-with-tabular-data) and [3.](#3-create-a-new-dataset-withwithout-a-file))
-
+-   Create Dataset ([Chapter 2](#2-create-a-dataset-with-tabular-data) and [Chapter 3](#3-create-a-new-dataset-withwithout-a-file))
 -   Create Publication (see separate How to)
-
--   Update Data (coming soon)
-
+-   Update Data ([Chapter 4](#4-update-a-dataset))
 -   Push Big Files (coming soon)
 
 <img src=".\images_upload\image1.png" style="width:6.3in;height:1.13861in" />
@@ -58,18 +52,12 @@ Figure 1: Functions of the upload menu.
 
 Creating a new dataset with tabular data includes the following steps:
 
-1.  [Create a new dataset](#create-dataset)
-
-2.  [Fill out the metadata](#metadata)
-
-3.  [Define data structure](#data-structure)
-
-4.  [Upload primary data](#upload-data)
-
-5.  [Add links to other datasets and publications
-    (optional)](#add-data-links-optional)
-
-6.  [Add attachments (optional)](#add-attachments-optional)
+1.  [Create a new dataset](#21-create-dataset)
+2.  [Fill out the metadata](#22-metadata)
+3.  [Define data structure](#23-data-structure)
+4.  [Upload primary data](#24-upload-data)
+5.  [Add links to other datasets and publications (optional)](#25-add-data-links-optional)
+6.  [Add attachments (optional)](#26-add-attachments-optional)
 
 ### 2.1 Create dataset
 
@@ -303,19 +291,19 @@ Provide the following information while creating a link:
 
 Table 3: Reference types.
 
-| Link type              | Description                                                                                                      |
-|------------------------|------------------------------------------------------------------------------------------------------------------|
-| Collection             | linked dataset is part of a collection (e.g., header data and species data)                                      |
-| Link                   | unspecific link to a dataset or publication                                                                      |
-| Is supplement to       | linked dataset is used in the current publication                                                                |
-| Is supplemented by     | linked publication uses the current dataset                                                                      |
-| Is new version of      | linked dataset is a newer version of the current dataset                                                         |
-| Is previous version of | linked dataset is an older version of the current dataset                                                        |
-| Is continued by        | indicates that the current dataset is continued by the linked dataset (e.g., for time series)                    |
-| Is derived from        | linked dataset is a source upon which the current dataset is based                                               |
-| Is source of           | the original dataset is the source of the linked dataset                                                         |
-| Compiles               | linked dataset (e.g., synthesis datasets) is the result of a compile or creation event using the current dataset |
-| Is compiled by         | linked dataset is used to compile or create the current dataset (e.g., synthesis datasets)                       |
+| Link type              | Description  |  
+|------------------------|-----------------------------------------------------------------------------|
+| Collection             | linked dataset is part of a collection (e.g., header data and species data)|
+| Link                   | unspecific link to a dataset or publication|
+| Is supplement to       | linked dataset is used in the current publication|
+| Is supplemented by     | linked publication uses the current dataset|
+| Is new version of      | linked dataset is a newer version of the current dataset|
+| Is previous version of | linked dataset is an older version of the current dataset|
+| Is continued by        | indicates that the current dataset is continued by the linked dataset (e.g., for time series)|
+| Is derived from        | linked dataset is a source upon which the current dataset is based|
+| Is source of           | the original dataset is the source of the linked dataset|
+| Compiles               | linked dataset (e.g., synthesis datasets) is the result of a compile or creation event using the current dataset|
+| Is compiled by         | linked dataset is used to compile or create the current dataset (e.g., synthesis datasets)|
 
 ### 2.6 Add attachments (optional)
 
@@ -330,16 +318,16 @@ Creating a new data set for unstructured data (documents, images,
 GIS-files) or data stored in an external repository includes the
 following steps:
 
-1.  [Create a new dataset](#create-dataset-1)
+1.  [Create a new dataset](#31-create-dataset)
 
-2.  [Fill out the metadata](#metadata)
+2.  [Fill out the metadata](#32-metadata)
 
-3.  [Upload file(s) (optional)](#_3.3__Upload)
+3.  [Upload file(s) (optional)](#33-upload-data)
 
 4.  [Add links to other datasets and publications
-    (optional)](#add-data-links-optional)
+    (optional)](#34-add-data-links-and-attachments-(optional))
 
-5.  [Add attachments (optional)](#add-attachments-optional)
+5.  [Add attachments (optional)](#34-add-data-links-and-attachments-(optional))
 
 ### 3.1 Create dataset
 
@@ -406,7 +394,7 @@ Now follow these steps of the upload wizard:
 
 ### 3.4 Add data links and attachments (optional)
 
-See [Chapter 2.5](#add-data-links-optional) and [Chapter
+See [Chapter 2.5](#25-add-data-links-optional) and [Chapter
 2.6](#add-attachments-optional) for instructions.
 
 # 4. Update a dataset
@@ -443,7 +431,7 @@ There are two options to update your data:
 
 To start the upload process, use the *Update or Append button* in your dataset's *Primary Data tab*. This link will direct you to the data upload wizard.
 
-Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in Section 2.4.
+Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in [Chapter 2.4](#24-upload-data).
 
 1. Select file:
 
