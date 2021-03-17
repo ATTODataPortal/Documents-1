@@ -65,29 +65,23 @@ Create a new dataset by selecting *Create Dataset* in the *Upload* menu
 and follow the steps (Figure 2):
 
 1.  Dataset:
-
     1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
-
     2.  To use an existing dataset as template, select this dataset from the list -\> next step 2i or 2ii
 
 2.  Data Structure:
-
     1.  Define the data structure; choose *Tabular data (new)*; to reuse
         an existing data structure, select *Existing tabular data
         structure* and select a data structure from the list-\> next
         step 3i
-
     2.  Use the data structure of the chosen data record (1b), choose
         another existing data structure, or create a new one by
         choosing *Tabular data (new)* -\> next step 4i
 
 3.  Metadata Structure:
-
     1.  Use the metadata schema called *Biodiversity Exploratories Metadata
         Schema 3.0* -\> next step 4i
 
 4.  Next-button:
-
     1.  Press the button and fill in the metadata
 
 <img src=".\images_upload\image2.png" style="width:6.3in;height:2.17822in" />
@@ -173,60 +167,45 @@ Figure 8: Start data upload.
 Now follow the upload wizard (Figure 9):
 
 1.  Select file:
-
     -   Choose the file from your local computer. The wizard supports file formats of Microsoft Excel or text (UTF-8)   (\*.xlsm, \*.xlsx, \*.txt, \*.csv, \*.tsv). After selecting the file, click the *Next button*.
 
 2.  Get file information (excel files):
-
     -   The first datasheet of the selected file is displayed. If you wish to upload data from a different worksheet use the *Change Worksheet button*. Please be aware that you can only upload data from one sheet at a time.
-
     -   Note: The representation of the data in the upload wizard might differ from Microsoft Excel or similar programs. Nevertheless, the data will be uploaded correctly.
-
     -   Provide the information which cells contain the header (variables). Select the row or one part of a row containing the variable names and click the *Header button*.
-
     -   Mark the data section by selecting multiple rows and clicking
         the *Data button*. The selected area will be highlighted in
         blue. Please make sure that the data area contains as many
         columns as the header. You can use the *Expand Selection button*
         to expand the already selected data area to the last row of the
         file.
-
     -   If mistakes occur, use the *Reset* button to remove all markings
         and start over.
-
     -   Click the *Next Button* to proceed to the next step.
 
 3.  Specify dataset:
-
     -   Skip this step if you used the upload button in the dataset's primary data tab.
 
 4.  Validation:
-
     -   Click the *Validate Button*. This step checks if the data
         structure and the primary data match.
-
     -   Validation failed: View the error message and adapt the data
         structure or your uploaded data. You can open the data structure
         in a second tab, change it and validate it again. If you need
         help: send a mail with the error message and the dataset id to
         the BExIS-Team. If the data file is not too big, please also
         attach it.
-
     -   Validation successful: click *Next Button*
 
 5.  Summary:
-
     -   The wizard provides a summary of the uploaded data
-
     -   Click the *Finish button* to complete the import
-
     -   Depending on the size of your uploaded data you will be directly
         forwarded to your dataset and you can view your data. Otherwise,
         you will be informed via mail once the import is completed.
         During that time your dataset is not accessible.
 
 6.  Visual check:
-
     -   Please check your uploaded data under the *Primary Data* tab. In
         case something looks strange please contact the BExIS Team.
 
@@ -286,22 +265,17 @@ Creating a new data set for unstructured data (documents, images, GIS-files) or 
 To set up a new dataset, select *Create Dataset* in the *Upload* menu and follow those steps:
 
 1.  Dataset:
-
     1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
-
     2.  To use an existing dataset as template, select this dataset from
         the list -\> next step 2ii
 
 2.  Data Structure:
-
     1.  Define the data structure; select *Existing file data structure*
         and choose a data type from the list-\> next step 3i
-
     2.  Use the data structure of the chosen dataset (1ii), choose
         another existing data type -\> next step 4i
 
 3.  Metadata Structure:
-
     1.  Use the metadata schema called *Biodiversity Exploratories Metadata
         Schema 3.0* -\> next step 4i
 
@@ -317,8 +291,7 @@ See [Chapter 2.2](#22-metadata) for instructions.
 
 ### 3.3 Upload data
 
-To start the upload process, use the upload button in your dataset's
-primary data tab (Figure 11). This link will direct you to the data
+To start the upload process, use the upload button in your dataset's primary data tab (Figure 11). This link will direct you to the data
 upload wizard.
 
 <img src=".\images_upload\image15.png" style="width:6.3in;height:1.79167in" />
@@ -328,20 +301,13 @@ Figure 11: Start data upload.
 Now follow these steps of the upload wizard:
 
 1.  Select file:
-
-    -   Choose the file from your local computer. After selecting the
-        file, click the *Next button*.
+    -   Choose the file from your local computer. After selecting the file, click the *Next button*.
 
 2.  Specify dataset
-
-    -   Skip this step if you used the upload button in the dataset's
-        primary data tab. The dataset is already selected. Press the
-        *Next Button.*
+    -   Skip this step if you used the upload button in the dataset's primary data tab. The dataset is already selected. Press the Next Button.*
 
 3.  Summary:
-
     -   The wizard provides a summary of the uploaded data
-
     -   Click finish button
 
 ### 3.4 Add data links and attachments (optional)
@@ -372,62 +338,49 @@ Open your dataset. To edit the metadata click on the *Edit button* on top of you
 To update your primary data go to the *Primary Data tab* of your dataset.
 
 There are two options to update your data:
-
 - Update: adds only new data; a unique key (one or more variables) has to be provided
 - Append: this adds all data of the uploaded file to the datasets. Note: make sure that you don't upload already existing data!
 
 To start the upload process, use the *Update or Append button* in your dataset's *Primary Data tab*. This link will direct you to the data upload wizard.
 
-<img src=".\images_upload\image18.png" />
+<img src=".\images_upload\image18.png" >
 
 Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in [Chapter 2.4](#24-upload-data).
 
 1. Select file:
-
     - Choose the file from your local computer and click the *Next button*.
 
 2. Get file information (excel files):
-
     - Select the header of the data and click the *Header button.*
-
     - Select the data section of your table and click the *Data button.*
-
     - If mistakes occur, use the *Reset* button to remove all markings and start over.
-
     - Click the *Next button* to proceed to the next step.
 
+<img src=".\images_upload\image19.png" />
 3. Specify dataset:
-
     -  Skip this step if you used the upload button in the dataset's primary data tab.
 
 4. Choose update method:
-
     - 4a - Update:
-
         - Define a unique key. Therefore choose one or more variables.
-
         - Click the *Check button.* You get a message whether the key variables are unique or not.
-
         - Click the *Next button* to proceed to the next step.
 
     - 4b - Append:
-
         - By choosing to append data no further information is required.
+
+<img src=".\images_upload\image20.png" />
 
 5. Validation
 
     - Click the *Validate button*. This step checks if data structure and primary data match.
-
     - Validation failed: view the error message and adapt the data structure or your uploaded data.
-
     - Validation successful: click *Next button*
 
 6. Summary:
 
     - The wizard provides a summary of the uploaded data
-
     - Click the *Finish button* to complete the import
-
     - Depending on the size of your uploaded data you will be directly forwarded to your dataset. Otherwise, you will be informed via mail once the import is completed. During that time your dataset is not accessible.
 
 7. Visual check:
@@ -436,6 +389,6 @@ Follow the upload wizard. The steps are shorty explained. A more detailed explan
 
 ## 4.3 Links and Attachments
 
-Open your dataset. In the *Links-tab* you can create new links via the *Create-link-button* and or delete already existing links.
+Open your dataset. In the *Links tab* you can create new links via the *Create link button* and or delete already existing links.
 
-Under the *Attachments-tab* you can upload new attachments and delete old ones.
+Under the *Attachments tab* you can upload new attachments and delete old ones.
