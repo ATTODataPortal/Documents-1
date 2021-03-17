@@ -96,39 +96,28 @@ Figure 2: First steps of creating a new dataset.
 
 ### 2.2 Metadata
 
-Provide detailed metadata to give all essential information about the
-data. The metadata is structured in sections. Switch directly to a
-section via the metadata tabs (e.g., *General* and *Contact –* Figure
-3).
+Provide detailed metadata to give all essential information about the data. The metadata is structured in sections. Switch directly to a section via the metadata tabs (e.g., *General* and *Contact –* Figure 3).
 
-Note, grey boxes mark automatically filled fields like *Id, Version,
-Metadata creation date*. Table 1 explains the use of the buttons in the
-metadata.
+Note, grey boxes mark automatically filled fields like *Id, Version, Metadata creation date*. [Table 1](#t1) explains the use of the buttons in the metadata.
 
-Please use the autocomplete functions for the project name, metadata
-creator, data creator, data collector, and contact person!
+Please use the autocomplete functions for the project name, metadata creator, data creator, data collector, and contact person!
 
-Table 1: Buttons in the metadata schema.
+[Table 1](#t1): Buttons in the metadata schema.
 
-| Button                                                                                                   | Description                                                                                                         |
-|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| Button    | Description   |
+|-----------------------------------------------------------------------------------|---------------|
 | <img src=".\images_upload\image3.png" style="width:0.20002in;height:0.20002in" /> | \(1\) info-button offers help when filling out the metadata fields; the info-button on the top shows all help texts |
-| \*                                                                                                       | \(2\) mandatory fields                                                                                              |
-| <img src=".\images_upload\image4.png" style="width:0.32003in;height:0.20002in" /> | \(3\) opens or closes subsections (topics)                                                                          |
-| <img src=".\images_upload\image5.png" style="width:0.38003in;height:0.19335in" /> | \(4\) the button adds or deletes an additional field                                                                |
-| <img src=".\images_upload\image6.png" style="width:0.38003in;height:0.20002in" /> | \(5\) use to reorders a list                                                                                        |
-| <img src=".\images_upload\image7.png" style="width:0.23036in;height:0.1875in" />  | \(6\) subsections are closed by default (e.g., Coordinates-WGS84); ticking the check box opens subsection           |
+| \*    | \(2\) mandatory fields|
+| <img src=".\images_upload\image4.png" style="width:0.32003in;height:0.20002in" /> | \(3\) opens or closes subsections (topics)|
+| <img src=".\images_upload\image5.png" style="width:0.38003in;height:0.19335in" /> | \(4\) the button adds or deletes an additional field|
+| <img src=".\images_upload\image6.png" style="width:0.38003in;height:0.20002in" /> | \(5\) use to reorders a list|
+| <img src=".\images_upload\image7.png" style="width:0.23036in;height:0.1875in" />  | \(6\) subsections are closed by default (e.g., Coordinates-WGS84); ticking the check box opens subsection|
 
 <img src=".\images_upload\image8.png" style="width:6.3in;height:3.1875in" />
 
 Figure 3: Metadata schema
 
-At the end of the metadata schema, there are two buttons - *validate* or
-*save*. The validation checks if all mandatory fields are filled and
-comply with the metadata standard. Errors and missing content will be
-marked in red (Figure 4). Clicking the save button also validates the
-dataset, and a warning will pop up if the data is incomplete.
-Nevertheless, the metadata can be saved and completed later.
+At the end of the metadata schema, there are two buttons - *validate* or *save*. The validation checks if all mandatory fields are filled and comply with the metadata standard. Errors and missing content will be marked in red (Figure 4). Clicking the save button also validates the dataset, and a warning will pop up if the data is incomplete. Nevertheless, the metadata can be saved and completed later.
 
 <img src=".\images_upload\image9.png" style="width:6.3in;height:2.48958in" />
 
@@ -136,30 +125,21 @@ Figure 4: Validation of metadata schema.
 
 ### 2.3 Data structure
 
-The next step is to adjust the data structure to the primary data. Use
-the link provided under the tab *Data Structure* of the dataset (Figure
-5).
+The next step is to adjust the data structure to the primary data. Use the link provided under the tab *Data Structure* of the dataset (Figure 5).
 
 <img src=".\images_upload\image10.png" style="width:6.3in;height:1.71875in" />Figure
 5: Link to edit the data structure.
 
-The data structure describes the variables of the primary data. Choose a
-variable template from the predefined list for each variable of the
-primary data. There are two filter options to find the templates (Figure
-6):
+The data structure describes the variables of the primary data. Choose a variable template from the predefined list for each variable of the primary data. There are two filter options to find the templates (Figure 6):
 
 1.  Search: enter search term, e.g., length, mass
-
 2.  Filter: select datatype, unit, or dimension
 
-Add the variable template to the data structure using *arrow button*
-(3). Make sure the variable templates are in the same order as the
-variables in the data.
+Add the variable template to the data structure using *arrow button* (3). Make sure the variable templates are in the same order as the variables in the data.
 
 <img src=".\images_upload\image11.png" style="width:6.3in;height:1.90625in" />
 
-In the next step, customize each variable template. Table 2 explains the
-fields and the buttons in the variable template (see also Figure 7).
+In the next step, customize each variable template. Table 2 explains the fields and the buttons in the variable template (see also Figure 7).
 
 Table 2: Variable Template.
 | Fields/buttons           | Description                                                                           |
@@ -174,8 +154,7 @@ Table 2: Variable Template.
 
 
 
-If you cannot find an appropriate variable template or a specific unit
-is missing, please contact the BExIS team!
+If you cannot find an appropriate variable template or a specific unit is missing, please contact the BExIS team!
 
 Finally, save the data structure and go back to your dataset (use the browser back button).
 
@@ -185,9 +164,7 @@ Figure 7: Edit a variable template.
 
 ### 2.4 Upload data
 
-To start the upload process, use the *upload button* in your dataset's
-primary data tab (Figure 8). This link will direct you to the data
-upload wizard.
+To start the upload process, use the *upload button* in your dataset's primary data tab (Figure 8). This link will direct you to the data upload wizard.
 
 <img src=".\images_upload\image15.png" style="width:6.3in;height:1.79167in" />
 
@@ -197,25 +174,15 @@ Now follow the upload wizard (Figure 9):
 
 1.  Select file:
 
-    -   Choose the file from your local computer. The wizard supports
-        file formats of Microsoft Excel or text (UTF-8) (\*.xlsm,
-        \*.xlsx, \*.txt, \*.csv, \*.tsv). After selecting the file,
-        click the *Next button*.
+    -   Choose the file from your local computer. The wizard supports file formats of Microsoft Excel or text (UTF-8)   (\*.xlsm, \*.xlsx, \*.txt, \*.csv, \*.tsv). After selecting the file, click the *Next button*.
 
 2.  Get file information (excel files):
 
-    -   The first datasheet of the selected file is displayed. If you
-        wish to upload data from a different worksheet use the *Change
-        Worksheet button*. Please be aware that you can only upload data
-        from one sheet at a time.
+    -   The first datasheet of the selected file is displayed. If you wish to upload data from a different worksheet use the *Change Worksheet button*. Please be aware that you can only upload data from one sheet at a time.
 
-    -   Note: The representation of the data in the upload wizard might
-        differ from Microsoft Excel or similar programs. Nevertheless,
-        the data will be uploaded correctly.
+    -   Note: The representation of the data in the upload wizard might differ from Microsoft Excel or similar programs. Nevertheless, the data will be uploaded correctly.
 
-    -   Provide the information which cells contain the header
-        (variables). Select the row or one part of a row containing the
-        variable names and click the *Header button*.
+    -   Provide the information which cells contain the header (variables). Select the row or one part of a row containing the variable names and click the *Header button*.
 
     -   Mark the data section by selecting multiple rows and clicking
         the *Data button*. The selected area will be highlighted in
@@ -231,8 +198,7 @@ Now follow the upload wizard (Figure 9):
 
 3.  Specify dataset:
 
-    -   Skip this step if you used the upload button in the dataset's
-        primary data tab.
+    -   Skip this step if you used the upload button in the dataset's primary data tab.
 
 4.  Validation:
 
@@ -281,12 +247,8 @@ Figure 10: Create a link.
 Provide the following information while creating a link:
 
 1.  *Type*: dataset or publication
-
-2.  *Title:* select a dataset or publication from the list. Tip: start
-    to type in the title and the system will narrow down the results.
-
+2.  *Title:* select a dataset or publication from the list. Tip: start to type in the title and the system will narrow down the results.
 3.  *Version:* choose an appropriate version of the data record
-
 4.  *Reference Type:* select a reference type (Table 3).
 
 Table 3: Reference types.
@@ -307,26 +269,16 @@ Table 3: Reference types.
 
 ### 2.6 Add attachments (optional)
 
-Additional files (e.g., files documenting primary data collection and
-creation like images, documents, and protocols) may be added to the
-datasets. Use the *Select Button* to upload one or more files. Please
-provide a short description of your selected file(s).
+Additional files (e.g., files documenting primary data collection and creation like images, documents, and protocols) may be added to the datasets. Use the *Select Button* to upload one or more files. Please provide a short description of your selected file(s).
 
 ## 3 Create a new dataset (with/without a file)
 
-Creating a new data set for unstructured data (documents, images,
-GIS-files) or data stored in an external repository includes the
-following steps:
+Creating a new data set for unstructured data (documents, images, GIS-files) or data stored in an external repository includes the following steps:
 
 1.  [Create a new dataset](#31-create-dataset)
-
 2.  [Fill out the metadata](#32-metadata)
-
 3.  [Upload file(s) (optional)](#33-upload-data)
-
-4.  [Add links to other datasets and publications
-    (optional)](#34-add-data-links-and-attachments-(optional))
-
+4.  [Add links to other datasets and publications (optional)](#34-add-data-links-and-attachments-(optional))
 5.  [Add attachments (optional)](#34-add-data-links-and-attachments-(optional))
 
 ### 3.1 Create dataset
@@ -345,7 +297,7 @@ To set up a new dataset, select *Create Dataset* in the *Upload* menu and follow
     1.  Define the data structure; select *Existing file data structure*
         and choose a data type from the list-\> next step 3i
 
-    2.  Use the data structure of the chosen dataset (1b), choose
+    2.  Use the data structure of the chosen dataset (1ii), choose
         another existing data type -\> next step 4i
 
 3.  Metadata Structure:
@@ -359,7 +311,7 @@ To set up a new dataset, select *Create Dataset* in the *Upload* menu and follow
 
 ### 3.2 Metadata
 
-See [Chapter 2.2](#metadata) for instructions.
+See [Chapter 2.2](#22-metadata) for instructions.
 
 <span id="_3.3__Upload" class="anchor"></span>
 
@@ -402,13 +354,9 @@ See [Chapter 2.5](#25-add-data-links-optional) and [Chapter
 The metadata creator, data creator, and project leader are allowed to edit the following parts of their dataset:
 
 - metadata
-
 - primary data
-
 - data structure
-
 - links
-
 - attachments
 
 The data structure itself can not be changed once the dataset contains primary data. But you are still able to edit the description of the variables.
@@ -426,10 +374,11 @@ To update your primary data go to the *Primary Data tab* of your dataset.
 There are two options to update your data:
 
 - Update: adds only new data; a unique key (one or more variables) has to be provided
-
 - Append: this adds all data of the uploaded file to the datasets. Note: make sure that you don't upload already existing data!
 
 To start the upload process, use the *Update or Append button* in your dataset's *Primary Data tab*. This link will direct you to the data upload wizard.
+
+<img src=".\images_upload\image18.png" />
 
 Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in [Chapter 2.4](#24-upload-data).
 
@@ -467,7 +416,7 @@ Follow the upload wizard. The steps are shorty explained. A more detailed explan
 
 5. Validation
 
-    - Click the *Validate Button*. This step checks if data structure and primary data match.
+    - Click the *Validate button*. This step checks if data structure and primary data match.
 
     - Validation failed: view the error message and adapt the data structure or your uploaded data.
 
