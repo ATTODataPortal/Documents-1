@@ -345,6 +345,8 @@ To start the upload process, use the *Update or Append button* in your dataset's
 
 <img src=".\images_upload\image18.png" >
 
+Figure 12: *Update or Append button*.
+
 Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in [Chapter 2.4](#24-upload-data).
 
 1. Select file:
@@ -357,6 +359,8 @@ Follow the upload wizard. The steps are shorty explained. A more detailed explan
     - Click the *Next button* to proceed to the next step.
 
 <img src=".\images_upload\image19.png" />
+Figure 13: Define header and data.
+
 3. Specify dataset:
     -  Skip this step if you used the upload button in the dataset's primary data tab.
 
@@ -370,6 +374,7 @@ Follow the upload wizard. The steps are shorty explained. A more detailed explan
         - By choosing to append data no further information is required.
 
 <img src=".\images_upload\image20.png" />
+Figure 14: Update and append workflow.
 
 5. Validation
 
