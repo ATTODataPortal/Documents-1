@@ -45,6 +45,7 @@ Under *Upload* are tools to create datasets. The basic functions are
 -   Push Big Files (coming soon)
 
 <img src=".\images_upload\image1.png" style="width:6.3in;height:1.13861in" />
+
 Figure 1: Functions of the upload menu.
 
 ## 2 Create a dataset with tabular data
@@ -84,6 +85,7 @@ and follow the steps (Figure 2):
     1.  Press the button and fill in the metadata
 
 <img src=".\images_upload\image2.png" style="width:6.3in;height:2.17822in" />
+
 Figure 2: First steps of creating a new dataset.
 
 ### 2.2 Metadata
@@ -106,11 +108,13 @@ Please use the autocomplete functions for the *project name, metadata creator, d
 | <img src=".\images_upload\image7.png" style="width:0.23036in;height:0.1875in" />  | \(6\) subsections are closed by default (e.g., Coordinates-WGS84); ticking the check box opens subsection|
 
 <img src=".\images_upload\image8.png" style="width:6.3in;height:3.1875in" />
+
 Figure 3: Metadata schema
 
 At the end of the metadata schema, there are two buttons - *validate* or *save*. The validation checks if all mandatory fields are filled and comply with the metadata standard. Errors and missing content will be marked in red (Figure 4). Clicking the save button also validates the dataset, and a warning will pop up if the data is incomplete. Nevertheless, the metadata can be saved and completed later.
 
 <img src=".\images_upload\image9.png" style="width:6.3in;height:2.48958in" />
+
 Figure 4: Validation of metadata schema.
 
 ### 2.3 Data structure
@@ -118,6 +122,7 @@ Figure 4: Validation of metadata schema.
 The next step is to adjust the data structure to the primary data. Use the link provided under the tab *Data Structure* of the dataset (Figure 5).
 
 <img src=".\images_upload\image10.png" style="width:6.3in;height:1.71875in" />
+
 Figure 5: Link to edit the data structure.
 
 The data structure describes the variables of the primary data. Choose a variable template from the predefined list for each variable of the primary data. There are two filter options to find the templates (Figure 6):
@@ -128,6 +133,7 @@ The data structure describes the variables of the primary data. Choose a variabl
 Add the variable template to the data structure using *arrow button* (3). Make sure the variable templates are in the same order as the variables in the data.
 
 <img src=".\images_upload\image11.png" style="width:6.3in;height:1.90625in" />
+
 Figure 6: Options to search for a variable template.
 
 In the next step, customize each variable template. Table 2 explains the fields and the buttons in the variable template (see also Figure 7).
@@ -148,6 +154,7 @@ If you cannot find an appropriate variable template or a specific unit is missin
 Finally, save the data structure and go back to your dataset (use the browser back button).
 
 <img src=".\images_upload\image14.png" style="width:6.3in;height:2.70833in" />
+
 Figure 7: Edit a variable template.
 
 ### 2.4 Upload data
@@ -155,6 +162,7 @@ Figure 7: Edit a variable template.
 To start the upload process, use the *Upload button* in your dataset's primary data tab (Figure 8). This link will direct you to the data upload wizard.
 
 <img src=".\images_upload\image15.png" style="width:6.3in;height:1.79167in" />
+
 Figure 8: Start data upload.
 
 Now follow the upload wizard (Figure 9):
@@ -190,6 +198,7 @@ Now follow the upload wizard (Figure 9):
     -   Please check your uploaded data under the *Primary Data tab*. In case something looks strange please contact the BExIS Team.
 
 <img src=".\images_upload\image16.png" style="width:6.3in;height:2.36458in" />
+
 Figure 9: First page of upload wizard.
 
 ### 2.5 Add data links (optional)
@@ -197,6 +206,7 @@ Figure 9: First page of upload wizard.
 Under the tab *Links* of the dataset (Figure 10), you can add linked/related datasets and publications. Links always refer to a specific version of a dataset. To insert links, click on *Create link*
 
 <img src=".\images_upload\image17.png" style="width:6.3in;height:2.77083in" />
+
 Figure 10: Create a link.
 
 Provide the following information while creating a link:
@@ -266,6 +276,7 @@ To start the upload process, use the upload button in your dataset's primary dat
 upload wizard.
 
 <img src=".\images_upload\image15.png" style="width:6.3in;height:1.79167in" />
+
 Figure 11: Start data upload.
 
 Now follow these steps of the upload wizard:
@@ -312,6 +323,7 @@ There are two options to update your data:
 To start the upload process, use the *Update or Append button* in your dataset's *Primary Data tab*. This link will direct you to the data upload wizard.
 
 <img src=".\images_upload\image18.png" >
+
 Figure 12: Update or Append button.
 
 Follow the upload wizard. The steps are shorty explained. A more detailed explanation is provided in [Chapter 2.4](#24-upload-data).
@@ -326,6 +338,7 @@ Follow the upload wizard. The steps are shorty explained. A more detailed explan
     - Click the *Next button* to proceed to the next step.
 
 <img src=".\images_upload\image19.png" />
+
 Figure 13: Define header and data.
 
 3. Specify dataset:
@@ -341,6 +354,7 @@ Figure 13: Define header and data.
         - By choosing to append data no further information is required.
 
 <img src=".\images_upload\image20.png" />
+
 Figure 14: Update and append workflow.
 
 5. Validation
