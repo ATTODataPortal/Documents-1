@@ -15,8 +15,7 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 - [1.2 Search categories](#12-search-categories)
 
-- [1.3 Filter and sorting options in the dataset table
-3](#13-filter-and-sorting-options-in-the-dataset-table)
+- [1.3 Filter and sorting options in the dataset table](#13-filter-and-sorting-options-in-the-dataset-table)
 
 [2 My data (only for BE-members)](#2-my-data-only-for-be-members)
 
