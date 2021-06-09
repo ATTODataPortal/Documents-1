@@ -61,8 +61,8 @@ Creating a new dataset with tabular data includes the following steps:
 
 ### 2.1 Create dataset
 
-Create a new dataset by selecting *Create Dataset* in the *Upload* menu
-and follow the steps (Figure 2):
+Create a new dataset by selecting *Create Dataset* from the *Upload* menu (Figure 2)
+and following these steps :
 
 1.  Dataset:
     1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
