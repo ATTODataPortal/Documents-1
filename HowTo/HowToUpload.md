@@ -36,7 +36,7 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 ## 1 Overview
 
-Under *Upload* are tools to create datasets. The basic functions are
+Under *Upload* you find tools to create datasets. The basic functions are
 (Figure 1):
 
 -   Create Dataset ([Chapter 2](#2-create-a-dataset-with-tabular-data) and [Chapter 3](#3-create-a-new-dataset-withwithout-a-file))
