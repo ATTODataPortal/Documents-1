@@ -12,7 +12,7 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 [1. Overview](#1-overview)
 
-[2. Create a dataset with tabular data2](#2-create-a-dataset-with-tabular-data)
+[2. Create a dataset with tabular data](#2-create-a-dataset-with-tabular-data)
 
 - [2.1 Create dataset](#21-create-dataset)
 - [2.2 Metadata](#22-metadata)
