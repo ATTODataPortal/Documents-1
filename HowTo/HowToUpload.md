@@ -1,4 +1,4 @@
-# How to upload
+# How to upload datasets and publications
 
 #
 
@@ -33,6 +33,13 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 - [4.1 Metadata](#41-metadata)
 - [4.2 Primary data](#42-primary-data)
 - [4.3 Links and Attachments](#43-links-and-attachments)
+
+[5. Create a publication](#5-create-a-publication)
+- [5.1 Metadata](#51-metadata)
+- [5.2 Upload publication](#52-upload-publication)
+- [5.3 Add dataset links (optional)](#53-add-dataset-links)
+
+[6. Edit a publication](#6-edit-a-publication)
 
 ## 1 Overview
 
@@ -379,3 +386,113 @@ Figure 14: Update and append workflow.
 Open your dataset. In the *Links tab* you can create new links via the *Create link button* and or delete already existing links.
 
 Under the *Attachments tab* you can upload new attachments and delete old ones.
+
+
+# 5. Create a publication
+
+Create a new publication by selecting *Create Publication* from the
+*Upload* menu ([Figure 15](#f15)) and following these steps:
+
+1.  Fill out the metadata
+
+2.  Upload the publication as PDF (optional)
+
+3.  Add links to datasets or publications (optional)
+
+<img src=".\images_upload\image1.png" style="width:6.3in;height:1.0625in" />
+
+[Figure 15:](#f15) Menu entry where the publication upload starts.
+
+## 5.1 Metadata
+
+Provide detailed metadata to inform about your publication. The metadata
+is structured in three sections: publication details, exploratory
+objects, domain objects. Switch directly to a section via the metadata
+tabs (e.g., *Exploratory Objects -* [Figure 16](#f16)).
+
+All fields have to be filled except the field *Joint Experiment 2020*.
+Table 1 explains the use of the buttons in the metadata.
+
+Please use the autocomplete function for the fields *Projects* and
+*First Author*. The field *First Author* should only contain the first
+person listed in the citation of the article. If the author is a
+registered BExIS user, edit rights will be granted automatically via
+this field. Please use the autocomplete function of this field to add a
+registered BExIS user. For more information on the different buttons in
+the metadata, see [Table 4](#t1) and [Figure 16](#f16).
+
+
+[Table 4:](#t1) Buttons in the metadata schema.
+
+| Button    | Description (numbers refer to [Figure 16](#f16))  |
+|-----------------------------------------------------------------------------------|---------------|
+| <img src=".\images_upload\image3.png" style="width:0.20002in;height:0.20002in" /> | \(1\) info-button offers help when filling out the metadata fields; the info-button on the top shows all help texts |
+| \*    | \(2\) mandatory fields|
+| <img src=".\images_upload\image4.png" style="width:0.32003in;height:0.20002in" /> | \(3\) opens or closes subsections (topics)|
+| <img src=".\images_upload\image5.png" style="width:0.38003in;height:0.19335in" /> | the button adds or deletes an additional field|
+| <img src=".\images_upload\image6.png" style="width:0.38003in;height:0.20002in" /> | use to reorders a list|
+
+
+<img src=".\images_upload\image21.png" />
+
+[Figure 16:](#f16) Metadata view of a publication.
+
+There are two buttons at the end of the metadata view - *Validate* and
+*Save*. The validation checks if all mandatory fields are filled and
+comply with the metadata standard. Errors and missing content will be
+marked in red. Clicking the save button also validates the publication,
+and a warning will pop up if the data is incomplete. Nevertheless, the
+metadata can be saved and completed later.
+
+After clicking the *Save* button, BExIS redirects you to the publication
+upload section.
+
+## 5.2 Upload publication
+
+To start the upload process, use the *Select* button ([Figure 17](#f17)). Next,
+choose the file from your local computer. The wizard supports PDFs.
+After selecting the file, click the *Upload* button. The file will be
+uploaded, and afterward, you will be forwarded to the metadata page. It
+is also possible to skip the upload via *Cancel* if the publication is
+not yet published.
+
+<img src=".\images_upload\image22.png" />
+
+[Figure 17:](#f17) Page to upload of a publication file.
+
+## 5.3 Add dataset links (optional)
+
+Under the *Links* tab of the publication, you can add datasets used
+in/for the publication. Links always refer to a specific version of a
+dataset. To insert links, click on *Create link* ([Figure 18](#f18)).
+
+Provide the following information while creating a link:
+
+1.  *Type*: dataset
+
+2.  *Title:* select a dataset from the list; tip: start to type in the
+     dataset ID or title, and the system will narrow down the results
+
+3.  *Version:* choose an appropriate version of the dataset
+
+4.  *Reference Type:* select as reference type *Is supplement to*
+
+<img src=".\images_upload\image23.png"  />
+
+[Figure 18:](#f18) Add a dataset link to a publication.
+
+# 6. Edit a publication
+
+In general, the person who created a publication, the first author, and
+the BEO and BExIS team can edit publications. If another person should
+get edit rights for a publication, please send a mail to the BExIS team.
+To edit a publication, select it in the menu *My Data* or *Search*. It
+is possible to update all parts of the publication.
+
+-   Metadata: edit the metadata by clicking on the *Edit button* on top
+    of your metadata
+
+-   File: to change the attached publication, delete the original file
+    and upload the new version
+
+-   Links: to edit a link, delete the old link and create a new link
