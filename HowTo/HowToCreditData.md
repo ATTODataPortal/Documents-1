@@ -8,9 +8,16 @@ Contact BExIS Data Curator: <bexis-datacurator@uni-jena.de>
 
 ## Table of content
 
+[0. Why to cite a dataset](#0-why-to-cite-a-dataset)
+
 [1. How to cite a dataset](#1-how-to-cite-a-dataset)
 
 [2. How to make a data availability statement](#2-how-to-make-a-data-availability-statement)
+
+
+## 0 Why to cite a dataset
+Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
+
 
 ## 1 How to cite a dataset
 
