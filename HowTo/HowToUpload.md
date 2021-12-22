@@ -73,16 +73,14 @@ and following these steps :
 
 1.  Dataset:
     1.  To create a blank dataset, choose *New Datase*t -\> next step 2i
-    2.  To use an existing dataset as template, select this dataset from the list -\> next step 2i or 2ii
+    2.  To use an existing dataset as template, select this dataset from the list or by clicking *Select from table* from the provided table  -\> next step 2i or 2ii
 
 2.  Data Structure:
-    1.  Define the data structure; choose *Tabular data (new)*; to reuse
-        an existing data structure, select *Existing tabular data
-        structure* and select a data structure from the list-\> next
+    1.  Define a new data structure: choose *Tabular data (new)* -\> next
         step 3i
-    2.  Use the data structure of the chosen data record (1i), choose
-        another existing data structure, or create a new one by
-        choosing *Tabular data (new)* -\> next step 4i
+    2.  Use an already existing data structure:
+        - of the dataset chosen in step 1ii -\> next step 4i
+        - or choose another existing data structure from the list or from the table by clicking *Select from table*, -\> next step 3i or 4i
 
 3.  Metadata Structure:
     1.  Use the metadata schema called *Biodiversity Exploratories Metadata
