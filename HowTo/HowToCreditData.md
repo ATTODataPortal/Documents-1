@@ -39,13 +39,13 @@ We suggest the following statement:
 
 > This work is based on data elaborated by [a project / several projects] of the Biodiversity Exploratories program (DFG Priority Program 1374). The datasets are publicly available in the Biodiversity Exploratories Information System (http://doi.org/10.17616/R32P9Q), (**xxx**). 
 >
-> **xxx:** List of URLs or DOIs of the public available datasets 
+> **xxx:** List of citation abbreviations related to the cited datasets in the Reference section OR (if not cited) list of URLs or DOIs of the public available datasets 
 
 Should there be data that cannot be published immediately, please add the following statement to the sentence above:
 
 > However, to give data owners and collectors time to perform their analysis the Biodiversity Exploratories' data and publication policy includes by default an embargo period of three years from the end of data collection/data assembly which applies to the remaining datasets (IDs: **yyy**). These datasets will be made publicly available via the same data repository.
 >
-> **yyy:** List of IDs from internal datasets
+> **yyy:** List of citation abbreviations related to the cited datasets in the Reference section OR (if not cited) list of IDs from internal datasets
 
 
 
