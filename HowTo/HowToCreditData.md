@@ -33,6 +33,8 @@ We suggest the following form:
 
 (We will provide a citation string within the dataset download package in the future.)
 
+**LUI tool - land use intensity index:** If you have used the LUI caclulation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/main/DownloadPDF?fileName=LUI-citation.pdf) found there.
+
 ## 2 How to make a data availability statement
 
 We suggest the following statement:
