@@ -18,9 +18,9 @@ Contact BEO: <beo@senckenberg.de>
 
 - [2.1 English publications](#2.1-English-publications)
 
-- [2.2 Deutsche Publicationen](#2.2-Deutsche-Publikationen)
+- [2.2 Deutsche Publikationen](#2.2-Deutsche-Publikationen)
 
-- [2.3 List of names] (#2.3-List-of-names)
+- [2.3 List of names](#2.3-List-of-names)
 
 
 ## 1 How to credit data
